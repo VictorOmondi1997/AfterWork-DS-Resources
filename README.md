@@ -21,8 +21,8 @@ These workshops are designed for professionals with an interest in getting hands
 
 <h1>Table of Contents</h1>
 
-* [23/05/2020: Sampling Techniques with Python Workshop](#23052020-sampling-techniques-with-python-workshop)
-* [30/05/2020: Data Wrangling with Python Workshop](#30052020-data-wrangling-with-python-workshop)
+* [23/05/2020: Sampling Techniques with Python Workshop](#23-05-2020-sampling-techniques-with-python-workshop)
+* [30/05/2020: Data Wrangling with Python Workshop](#30-05-2020-data-wrangling-with-python-workshop)
 
 <details>
     <summary><h2>23/05/2020: Sampling Techniques with Python Workshop</h2></summary>
