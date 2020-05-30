@@ -68,6 +68,6 @@ These workshops are designed for professionals with an interest in getting hands
     <ul>
         <li>Pre reading: <a href="http://bit.ly/dwpreading" target="_blank">http://bit.ly/dwpreading</a></li>
         <li>Quiz: <a href="http://bit.ly/dwpquiz" target="_blank">http://bit.ly/dwpquiz</a></li>
-        <li>Notebook: <a href="http://bit.ly/dwpquiz" target="_blank">http://bit.ly/dwpnotebook</a></li>
+        <li>Notebook: <a href="http://bit.ly/dwpnotebook" target="_blank">http://bit.ly/dwpnotebook</a></li>
     </ul>   
 </details>
