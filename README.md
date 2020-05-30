@@ -21,10 +21,32 @@ These workshops are designed for professionals with an interest in getting hands
 
 <h1>Table of Contents</h1>
 
-* [5/30/2020: Data Wrangling with Python Workshop](#5302020-data-wrangling-with-python-workshop)
+* [5/30/2020: Data Wrangling with Python Workshop](#30052020-data-wrangling-with-python-workshop)
 
 <details>
-    <summary><h2>5/30/2020: Data Wrangling with Python Workshop</h2></summary>
+    <summary><h2>23/05/2020: Sampling Techniques with Python Workshop</h2></summary>
+    
+    <h2>Exploring various sampling techniques using the python programming language</h2>
+    
+    <img src="https://secure.meetupstatic.com/photos/event/2/6/a/4/highres_490449892.jpeg" alt="Sampling Techniques with Python Workshop">
+    
+    <h2>Expectations:</h2>
+
+    <ol>
+        <li>Understand the process of simple random sampling, systemic sampling, cluster sampling and stratified sampling in selecting samples.</li>
+        <li>Demonstrate the ability to perform simple random sampling, systemic sampling, cluster sampling and stratified sampling in selecting samples using the python programming language.</li>
+        <li>Understand the advantages and disadvantages of simple random sampling, systemic sampling, cluster sampling and stratified sampling.</li>
+    </ol>
+    <h2>Resources:</h2>
+    <ul>
+        <li>Pre reading: <a href="http://bit.ly/dwpreading">http://bit.ly/dwpreading</a></li>
+        <li>Quiz: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
+        <li>Notebook: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
+    </ul>   
+</details>
+
+<details>
+    <summary><h2>30/05/2020: Data Wrangling with Python Workshop</h2></summary>
     
     <h2>Exploring common techniques for wrangling data with the Python programming language.</h2>
     
