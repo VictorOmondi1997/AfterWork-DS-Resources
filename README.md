@@ -24,29 +24,27 @@ These workshops are designed for professionals with an interest in getting hands
 * [5/30/2020: Data Wrangling with Python Workshop](#5302020-data-wrangling-with-python-workshop)
 
 <details>
-    <summary><h1>5/30/2020: Data Wrangling with Python Workshop</h1></summary>
+    <summary><h2>5/30/2020: Data Wrangling with Python Workshop</h2></summary>
     
-    ## Exploring common techniques for wrangling data with the Python programming language.
+    <h2>Exploring common techniques for wrangling data with the Python programming language.</h2>
     
     <img src="https://secure.meetupstatic.com/photos/event/8/7/9/highres_490502169.jpeg" alt="Data Wrangling with Python Workshop">
     
-    ## Expectations:
-    
-    * Learn how to load a local dataset from various sources
-    * Learn how to perform data exploration
-    * Learn how to check and deal with missing data
-    * Learn how to filter for records in a data frame
-    * Learn how to sort a data frame
-    * Learn how to split, merge and concatenate columns in a data frame
-    * Learn how to export a data frame
-    
+    <h2>Expectations:</h2>
+
+    <ol>
+        <li>Learn how to load a local dataset from various sources</li>
+        <li>Learn how to perform data exploration</li>
+        <li>Learn how to check and deal with missing data</li>
+        <li>Learn how to filter for records in a data frame</li>
+        <li>Learn how to sort a data frame</li>
+        <li>Learn how to split, merge and concatenate columns in a data frame</li>
+        <li>Learn how to export a data frame</li>
+    </ol>
     <h2>Resources:</h2>
-    
-    * Pre reading: <a href="http://bit.ly/dwpreading">http://bit.ly/dwpreading</a>
-    * Quiz: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a>
-    * Notebook: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a>
+    <ul>
+        <li>Pre reading: <a href="http://bit.ly/dwpreading">http://bit.ly/dwpreading</a></li>
+        <li>Quiz: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
+        <li>Notebook: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
+    </ul>   
 </details>
-
-
-
-
