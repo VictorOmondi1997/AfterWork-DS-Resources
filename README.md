@@ -40,9 +40,9 @@ These workshops are designed for professionals with an interest in getting hands
     </ol>
     <h2>Resources:</h2>
     <ul>
-        <li>Pre reading: <a href="http://bit.ly/dwpreading">http://bit.ly/dwpreading</a></li>
-        <li>Quiz: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
-        <li>Notebook: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
+        <li>Pre reading: <a href="https://bit.ly/stpreading">https://bit.ly/stpreading</a></li>
+        <li>Quiz: <a href="https://bit.ly/stwpquiz">https://bit.ly/stwpquiz</a></li>
+        <li>Notebook: <a href="https://bit.ly/stwpnote">https://bit.ly/stwpnotebook</a></li>
     </ul>   
 </details>
 
@@ -68,6 +68,6 @@ These workshops are designed for professionals with an interest in getting hands
     <ul>
         <li>Pre reading: <a href="http://bit.ly/dwpreading">http://bit.ly/dwpreading</a></li>
         <li>Quiz: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
-        <li>Notebook: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpquiz</a></li>
+        <li>Notebook: <a href="http://bit.ly/dwpquiz">http://bit.ly/dwpnotebook</a></li>
     </ul>   
 </details>
