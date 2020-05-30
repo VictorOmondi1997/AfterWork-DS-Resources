@@ -1,9 +1,9 @@
 <center><img src="https://secure.meetupstatic.com/photos/event/5/7/7/7/600_490102391.jpeg" alt="After Work Data science Nairobi"></center>
+
 <center><a href="#5302020-data-wrangling-with-python-workshop">Data Wrangling</a></center>
+
 # AfterWork DS Resources
 Resources from the AfterWork Data Science Nairobi Events
-
-![]()
 
 ## About AfterWork Data Science Workshops
 
