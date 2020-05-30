@@ -21,9 +21,9 @@ These workshops are designed for professionals with an interest in getting hands
 
 * [5/30/2020: Data Wrangling with Python Workshop](#5302020-data-wrangling-with-python-workshop)
 
-# 5/30/2020: Data Wrangling with Python Workshop
+<h1>5/30/2020: Data Wrangling with Python Workshop</h1>
 
-![Data Wrangling with Python Workshop](https://secure.meetupstatic.com/photos/event/8/7/9/highres_490502169.jpeg)
+<img src="https://secure.meetupstatic.com/photos/event/8/7/9/highres_490502169.jpeg" alt="Data Wrangling with Python Workshop">
 
 Exploring common techniques for wrangling data with the Python programming language.
 
