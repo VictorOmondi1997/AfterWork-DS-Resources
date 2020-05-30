@@ -3,3 +3,21 @@ email: info.victoromondi@gmail.com
 tagline: Data Science resources from Afterwork workshops
 url: https://victoromondi1997.github.io/AfterWork-DS-Resources
 description: AfterWork DS Resources. Resources from the AfterWork Data Science Nairobi Events. About AfterWork Data Science Workshops. AfterWork Datascience host workshops which are comprehensive training courses designed to give you insight into what data science and machine learning can do for your competitive advantage. Target audience. These workshops are designed for professionals with an interest in getting hands-on experience with the respective data science techniques and tools.Requirements. Some basic knowledge of the python programming language is required.You will need a zoom account (http://bit.ly/signup-zoom)
+logo: https://secure.meetupstatic.com/photos/event/5/7/7/7/600_490102391.jpeg
+social:
+  name: Victor Omondi
+  links:
+    - https://facebook.com/VictorOmondi1997
+    - https://facebook.com/VickTheGeek
+    - https://facebook.com/GvnShivukhulu
+    - https://twitter.com/VictorOmondi197
+    - https://victoromondi1997.ml
+author: 
+  twitter: victoromondi197
+twitter:
+  username: victoromondi197
+  card: summary
+twitter_username: VictorOmondi197
+github_username: VictorOmondi1997
+plugins: 
+  - jekyll-seo-tag
