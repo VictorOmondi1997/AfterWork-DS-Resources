@@ -23,6 +23,7 @@ These workshops are designed for professionals with an interest in getting hands
 
 * [23/05/2020: Sampling Techniques with Python Workshop](#23-05-2020-sampling-techniques-with-python-workshop)
 * [30/05/2020: Data Wrangling with Python Workshop](#30-05-2020-data-wrangling-with-python-workshop)
+* [06/06/2020: R Basics for Data Science](#06-06-2020-r-basics-for-data-science)
 
 <details>
     <summary><h2>23/05/2020: Sampling Techniques with Python Workshop</h2></summary>
