@@ -71,3 +71,31 @@ These workshops are designed for professionals with an interest in getting hands
         <li>Notebook: <a href="http://bit.ly/dwpnotebook" target="_blank">http://bit.ly/dwpnotebook</a></li>
     </ul>   
 </details>
+
+<details>
+    <summary><h2>06/06/2020: R Basics for Data Science</h2></summary>
+    
+    <h2>Learn the basics of R programming language for Data Science.</h2>
+    
+    <img src="https://secure.meetupstatic.com/photos/event/1/b/d/1/highres_490627121.jpeg" alt="R Basics for Data Science">
+    
+    <h2>Expectations:</h2>
+
+    <ol>
+        <li>I can use declare variables to store data in R.</li>
+        <li>I can use print variables to output data in R.</li>
+        <li>I can use comments to explain code in R.</li>
+        <li>I can use conditional if statements to make decisions in R.</li>
+        <li>I can perform data type conversion to manipulate data in R.</li>
+        <li>I can perform string concatenation in R.</li>
+        <li>I can use lists and vectors store and retrieve data in R.</li>
+        <li>I can create a simple linear regression model to make predictions in R.</li>
+    </ol>
+    <h2>Resources:</h2>
+    <ul>
+        <li>Pre reading: <a href="https://bit.ly/RFundamentalsReading" target="_blank">https://bit.ly/RFundamentalsReading</a></li>
+        <li>Quiz: <a href="https://bit.ly/RBasicsQuiz" target="_blank">https://bit.ly/RBasicsQuiz</a></li>
+        <li>Notebook: <a href="https://bit.ly/RBasicsNB" target="_blank">https://bit.ly/RBasicsNB</a></li>
+    </ul>   
+</details>
+
